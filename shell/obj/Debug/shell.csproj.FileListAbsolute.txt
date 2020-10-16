@@ -1,0 +1,7 @@
+C:\Users\elmer\source\repos\shell\shell\bin\Debug\shell.exe.config
+C:\Users\elmer\source\repos\shell\shell\bin\Debug\shell.exe
+C:\Users\elmer\source\repos\shell\shell\bin\Debug\shell.pdb
+C:\Users\elmer\source\repos\shell\shell\obj\Debug\shell.csprojAssemblyReference.cache
+C:\Users\elmer\source\repos\shell\shell\obj\Debug\shell.csproj.CoreCompileInputs.cache
+C:\Users\elmer\source\repos\shell\shell\obj\Debug\shell.exe
+C:\Users\elmer\source\repos\shell\shell\obj\Debug\shell.pdb
